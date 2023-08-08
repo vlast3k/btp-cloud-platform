@@ -15,6 +15,9 @@ Add users as org members and assign roles to grant the users access to informati
     > ### Note:  
     > When you create an org, you have the Org Manager role in that org.
 
+    > ### Note 2:
+    > Subaccount admins, can get the Org Manager role, by following this KBA [3249765](https://me.sap.com/notes/3249765)
+
     For more information, see [About Roles in the Cloud Foundry Environment](about-roles-in-the-cloud-foundry-environment-0907638.md).
 
 -   The users exist in a trusted platform identity provider.
